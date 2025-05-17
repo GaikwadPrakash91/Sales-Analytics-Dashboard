@@ -15,7 +15,6 @@ This repository contains an Excel-based sales analytics dashboard that visualize
 
 ## Files
 - **Sales_Analytics_Dashboard.xlsx**: The main Excel file containing the dashboard.
-- **Project-01.pdf**: Project documentation in PDF format.
 - **dashboard_screenshot.png**: A screenshot of the dashboard for quick reference.
 
 ## How to Use
